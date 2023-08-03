@@ -1,0 +1,22 @@
+{
+  "name": "quiz-app-v3",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "pinia": "^2.0.32",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "gh-pages": "^5.0.0",
+    "vite": "^4.1.4"
+  },
+  "homepage": "https://redhatdev16.github.io/quiz-app/"
+}

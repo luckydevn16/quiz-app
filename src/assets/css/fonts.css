@@ -1,0 +1,32 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 300;
+    src: url(../fonts/Nexa/nexa-light.otf);
+    src: local("Nexa Light"), local("nexa-light"), url(../fonts/Nexa/nexa-light.woff) format("woff"), url(../fonts/Nexa/nexa-light.ttf) format("truetype")
+}
+@font-face {
+    font-display: swap;
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Nexa/nexa-regular.otf);
+    src: local("Nexa Regular"), local("nexa-regular"), url(../fonts/Nexa/Nexa-Regular.woff) format("woff"), url(../fonts/Nexa/Nexa-Regular.ttf) format("truetype")
+}
+@font-face {
+    font-display: swap;
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/Nexa/nexa-heavy.otf);
+    src: local("Nexa Heavy"), local("nexa-heavy"), url(../fonts/Nexa/Nexa-Heavy.woff) format("woff"), url(../fonts/Nexa/Nexa-Heavy.ttf) format("truetype")
+}
+@font-face {
+    font-display: swap;
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 800;
+    src: url(../fonts/Nexa/nexa-black.otf);
+    src: local("Nexa Black"), local("nexa-black"), url(../fonts/Nexa/nexa-black.woff) format("woff"), url(../fonts/Nexa/nexa-black.ttf) format("truetype")
+}
