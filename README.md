@@ -2,7 +2,7 @@
 
 Quiz app developed with Vue 3 (Composition API) and Pinia as a State manager.
 
-[Demo](https://redhatdev16.github.io/quiz-app/)
+[Demo](https://luckydevn16.github.io/quiz-app/)
 
 This template should help get you started developing with Vue 3 in Vite.
 
